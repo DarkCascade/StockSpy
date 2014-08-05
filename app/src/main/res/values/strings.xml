@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="hello">My good friends!</string>
+    <string name="hello">We are gathered!</string>
     <string name="app_name">StockSpy</string>
 
 </resources>
