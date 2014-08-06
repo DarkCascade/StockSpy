@@ -4,6 +4,8 @@
     <string name="hello">Here today!</string>
     <string name="app_name">StockSpy</string>
     <string name="list0">GOOG</string>
+	<string name="list1">NVDA</string>
+	<string name="list2">INTC</string>
     <string name="title_activity_detail">DetailActivity</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
